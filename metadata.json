@@ -1,0 +1,5 @@
+{
+  "name": "Fundraising Dinner Invitation",
+  "description": "An interactive invitation form for the Annual Fundraising Dinner, allowing guests to RSVP, specify meal preferences, and provides dynamic payment information with a QR code.",
+  "requestFramePermissions": []
+}
